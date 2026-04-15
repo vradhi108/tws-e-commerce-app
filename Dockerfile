@@ -1,3 +1,5 @@
+#this is for frontend/presentation layer
+
 # Stage 1: Development/Build Stage
 FROM node:18-alpine AS builder
 
